@@ -1,0 +1,1 @@
+A re-render can only be triggered if a component's state has changed. The state can change from a props change, or from a direct setState change. The component gets the updated state and React decides if it should re-render the component.
